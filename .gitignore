@@ -1,2 +1,4 @@
 /venv/
 .idea
+/selenium_course/test_dir/geckodriver.log
+/selenium_course/geckodriver.log
